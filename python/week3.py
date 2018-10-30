@@ -1,1 +1,1 @@
-'hello  '+(input("enter your name:"))
+print('hello  '+(input("enter your name:")))
